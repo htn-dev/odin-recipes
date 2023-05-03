@@ -1,3 +1,5 @@
-# odin-recipes
+# Road-To-Obesity-recipes
 
-A basic recipes website
+A website about selected junk food recipes.
+
+URL: https://htn-dev.github.io//odin-recipes/
